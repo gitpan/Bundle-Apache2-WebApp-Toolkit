@@ -1,0 +1,15 @@
+--- #YAML:1.0
+name: Bundle::Apache2::WebApp::Toolkit
+abstract: Install for Apache::WebApp::Toolkit related modules.
+version: 0.01
+author:
+  - Marc S. Brooks <mbrooks@cpan.org>
+license: perl and artistic
+distribution_type: module
+requires:
+build_requires:
+resources:
+  license: http://dev.perl.org/licenses/
+meta-spec:
+  version: 1.4
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
