@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name: Bundle::Apache2::WebApp::Toolkit
 abstract: Install for Apache::WebApp::Toolkit related modules.
-version: 0.01
+version: 0.02
 author:
   - Marc S. Brooks <mbrooks@cpan.org>
 license: perl and artistic

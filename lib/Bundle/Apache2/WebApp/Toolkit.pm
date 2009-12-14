@@ -12,7 +12,7 @@
 
 package Bundle::Apache2::WebApp::Toolkit;
 
-our $VERSION = 0.01;
+our $VERSION = 0.02;
 
 1;
 
@@ -24,35 +24,35 @@ Bundle::Apache2::WebApp - Install Apache::WebApp::Toolkit related modules.
 
 =head1 CONTENTS
 
-Apache2-WebApp
+Apache2::WebApp
 
-Apache2-WebApp-Plugin-CGI
+Apache2::WebApp::Plugin::CGI
 
-Apache2-WebApp-Plugin-Cookie
+Apache2::WebApp::Plugin::Cookie
 
-Apache2-WebApp-Plugin-DateTime
+Apache2::WebApp::Plugin::DateTime
 
-Apache2-WebApp-Plugin-DBI
+Apache2::WebApp::Plugin::DBI
 
-Apache2-WebApp-Plugin-File
+Apache2::WebApp::Plugin::File
 
-Apache2-WebApp-Plugin-Filters
+Apache2::WebApp::Plugin::Filters
 
-Apache2-WebApp-Plugin-JSON
+Apache2::WebApp::Plugin::JSON
 
-Apache2-WebApp-Plugin-Mail
+Apache2::WebApp::Plugin::Mail
 
-Apache2-WebApp-Plugin-Memcached
+Apache2::WebApp::Plugin::Memcached
 
-Apache2-WebApp-Plugin-Session
+Apache2::WebApp::Plugin::Session
 
-Apache2-WebApp-Plugin-Session-File
+Apache2::WebApp::Plugin::Session::File
 
-Apache2-WebApp-Plugin-Session-Memcached
+Apache2::WebApp::Plugin::Session::Memcached
 
-Apache2-WebApp-Plugin-Session-MySQL
+Apache2::WebApp::Plugin::Session::MySQL
 
-Apache2-WebApp-Plugin-Validate
+Apache2::WebApp::Plugin::Validate
 
 =head1 INSTALLATION
 

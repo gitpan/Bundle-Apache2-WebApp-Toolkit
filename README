@@ -3,35 +3,35 @@ NAME
     modules.
 
 CONTENTS
-    Apache2-WebApp
+    Apache2::WebApp
 
-    Apache2-WebApp-Plugin-CGI
+    Apache2::WebApp::Plugin::CGI
 
-    Apache2-WebApp-Plugin-Cookie
+    Apache2::WebApp::Plugin::Cookie
 
-    Apache2-WebApp-Plugin-DateTime
+    Apache2::WebApp::Plugin::DateTime
 
-    Apache2-WebApp-Plugin-DBI
+    Apache2::WebApp::Plugin::DBI
 
-    Apache2-WebApp-Plugin-File
+    Apache2::WebApp::Plugin::File
 
-    Apache2-WebApp-Plugin-Filters
+    Apache2::WebApp::Plugin::Filters
 
-    Apache2-WebApp-Plugin-JSON
+    Apache2::WebApp::Plugin::JSON
 
-    Apache2-WebApp-Plugin-Mail
+    Apache2::WebApp::Plugin::Mail
 
-    Apache2-WebApp-Plugin-Memcached
+    Apache2::WebApp::Plugin::Memcached
 
-    Apache2-WebApp-Plugin-Session
+    Apache2::WebApp::Plugin::Session
 
-    Apache2-WebApp-Plugin-Session-File
+    Apache2::WebApp::Plugin::Session::File
 
-    Apache2-WebApp-Plugin-Session-Memcached
+    Apache2::WebApp::Plugin::Session::Memcached
 
-    Apache2-WebApp-Plugin-Session-MySQL
+    Apache2::WebApp::Plugin::Session::MySQL
 
-    Apache2-WebApp-Plugin-Validate
+    Apache2::WebApp::Plugin::Validate
 
 INSTALLATION
     Perl one liner using CPAN.pm:
