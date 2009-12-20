@@ -1,6 +1,6 @@
 NAME
-    Bundle::Apache2::WebApp - Install Apache::WebApp::Toolkit related
-    modules.
+    Bundle::Apache2::WebApp::Toolkit - Install Apache2::WebApp and related
+    modules
 
 CONTENTS
     Apache2::WebApp

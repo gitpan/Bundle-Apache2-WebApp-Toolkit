@@ -1,6 +1,6 @@
 #----------------------------------------------------------------------------+
 #
-#  Bundle::Apache2::WebApp - Install Apache::WebApp::Toolkit related modules.
+#  Bundle::Apache2::WebApp::Toolkit - Install Apache2::WebApp and related modules.
 #
 #  AUTHOR
 #  Marc S. Brooks <mbrooks@cpan.org>
@@ -12,7 +12,7 @@
 
 package Bundle::Apache2::WebApp::Toolkit;
 
-our $VERSION = 0.02;
+our $VERSION = 0.03;
 
 1;
 
@@ -20,7 +20,7 @@ __END__
 
 =head1 NAME
 
-Bundle::Apache2::WebApp - Install Apache::WebApp::Toolkit related modules.
+Bundle::Apache2::WebApp::Toolkit - Install Apache2::WebApp and related modules
 
 =head1 CONTENTS
 
