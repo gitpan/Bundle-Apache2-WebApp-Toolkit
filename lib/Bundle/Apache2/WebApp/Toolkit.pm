@@ -12,7 +12,7 @@
 
 package Bundle::Apache2::WebApp::Toolkit;
 
-our $VERSION = 0.06;
+our $VERSION = 0.07;
 
 1;
 
@@ -54,11 +54,13 @@ Apache2::WebApp::Plugin::Session::MySQL
 
 Apache2::WebApp::Plugin::Validate
 
+Apache2::WebApp::Extra::Admin
+
 =head1 INSTALLATION
 
 Perl one liner using CPAN.pm:
 
-  perl -MCPAN -e 'install Bundle::Apache2::WebApp::Toolkit
+  $ perl -MCPAN -e 'install Bundle::Apache2::WebApp::Toolkit
 
 Use of CPAN.pm in interactive mode:
 

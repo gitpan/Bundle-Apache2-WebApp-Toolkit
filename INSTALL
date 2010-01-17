@@ -1,12 +1,11 @@
 Perl one liner using CPAN.pm:
 
-  perl -MCPAN -e 'install Bundle::Apache2::WebApp::Toolkit'
+  $ perl -MCPAN -e 'install Bundle::Apache2::WebApp::Toolkit'
 
 
 Use of CPAN.pm in interactive mode:
 
   $ perl -MCPAN -e shell
-
   cpan> install Bundle::Apache2::WebApp::Toolkit
   cpan> quit
 
