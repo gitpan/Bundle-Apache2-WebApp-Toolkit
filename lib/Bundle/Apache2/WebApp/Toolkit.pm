@@ -12,7 +12,7 @@
 
 package Bundle::Apache2::WebApp::Toolkit;
 
-our $VERSION = 0.07;
+our $VERSION = 0.08;
 
 1;
 
@@ -64,7 +64,7 @@ Perl one liner using CPAN.pm:
 
 Use of CPAN.pm in interactive mode:
 
-  $> perl -MCPAN -e shell
+  $ perl -MCPAN -e shell
   cpan> install Bundle::Apache2::WebApp::Toolkit
   cpan> quit
 
